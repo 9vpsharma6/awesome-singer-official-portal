@@ -26,6 +26,7 @@ A curated list of awesome singer official portals.
 - [C](#c)
     - [Calvin Harris](#calvin-harris)
     - [Capsule](#capsule)
+    - [Chthonic](#chthonic)
     - [Chris Brown](#chris-brown)
     - [Coldplay](#coldplay)
 - [D](#d)
@@ -34,11 +35,13 @@ A curated list of awesome singer official portals.
     - [DJ Okawari](#dj-okawari)
     - [Dr. Dre](#dr.-dre)
     - [Drake](#drake)
+    - [Demi Lovato](#demi)
 - [E](#e)
     - [East River String Band](#east-river-string-band)
     - [Ed Sheeran](#ed-sheeran)
     - [Egoist](#egoist)
     - [Elton John](#elton-john)
+    - [Eluveitie](#eluveitie)
     - [Elvis Presley](#elvis-presley)
     - [Eminem](#eminem)
 - [F](#f)
@@ -94,6 +97,7 @@ A curated list of awesome singer official portals.
     - [Namie Amuro](#namie-amuro)
     - [Nana Mizuki](#nana-mizuki)
 - [O](#o)
+    - [OK Go](#ok-go)
     - [One Direction](#one-direction)
     - [ONE OK ROCK](#one-ok-rock)
 - [P](#p)
@@ -107,6 +111,7 @@ A curated list of awesome singer official portals.
     - [Queen](#queen)
 - [R](#r)
     - [Radwimps](#radwimps)
+    - [Red Hot Chili Peppers](#red-hot-chili-peppers)
     - [Rich Chigga](#rich-chigga)
     - [Ricky Martin](#ricky-martin)
     - [Rihanna](#rihanna)
@@ -268,12 +273,17 @@ A curated list of awesome singer official portals.
 
 * [Capsule](http://capsule-official.com/)
 
+## Chthonic
+
+*Chthonic (sometimes typeset ChthoniC or ChThoniC) is a Taiwanese heavy metal band, formed in 1995 in Taipei. They have been called "the Black Sabbath of Asia.*
+
+* [Chthonic](http://www.chthonic.tw/)
+
 ## Chris Brown
 
 *Chris Brown is an American singer, songwriter, and actor.*
 
 * [Chris Brown](http://heartbreakonafullmoon.chrisbrownworld.com/)
-
 
 ## Coldplay
 
@@ -313,6 +323,12 @@ A curated list of awesome singer official portals.
 
 * [Drake](http://www.drakeofficial.com/)
 
+## Demi
+
+*Demetria Devonne Lovato is an American singer, songwriter, and actress. Musically, Lovato is considered a pop, pop rock, and R&B artist.*
+
+* [Demi Lovato](http://www.demilovato.com/)
+
 # E
 
 ## East River String Band
@@ -338,6 +354,12 @@ A curated list of awesome singer official portals.
 *Sir Elton Hercules John, CBE, is an English singer, pianist, and composer.*
 
 * [Elton John](https://www.eltonjohn.com/)
+
+## Eluveitie
+
+*Eluveitie is a Swiss folk metal band from Winterthur, Zurich, founded in 2002 by Chrigel Glanzmann.*
+
+* [Eluveitie](http://eluveitie.ch)
 
 ## Elvis Presley
 
@@ -629,6 +651,12 @@ A curated list of awesome singer official portals.
 
 # O
 
+## OK go
+
+*OK Go is an American rock band originally from Chicago, Illinois, now based in Los Angeles, California.*
+
+* [OK go](http://okgo.net/)
+
 ## One Direction
 
 *One Direction are an English-Irish pop boy band based in London, composed of Niall Horan, Liam Payne, Harry Styles, Louis Tomlinson, and previously, Zayn Malik until his departure from the band on 25 March 2015.*
@@ -694,6 +722,12 @@ A curated list of awesome singer official portals.
 *Radwimps is a Japanese rock band, who debuted independently in 2003 and later on major label Toshiba EMI in 2005.*
 
 * [Radwimps](http://radwimps.jp/)
+
+## Red Hot Chili Peppers
+
+*Red Hot Chili Peppers are an American funk rock band formed in Los Angeles in 1983. The group's musical style primarily consists of rock with an emphasis on funk, as well as elements from other genres such as punk rock and psychedelic rock. When played live, their music incorporates elements of jam band due to the improvised nature of many of their performances.*
+
+* [Red Hot Chili Peppers](http://redhotchilipeppers.com/)
 
 ## Rich Chigga
 
